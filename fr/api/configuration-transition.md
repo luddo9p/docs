@@ -69,7 +69,7 @@ Example global `css`:
 .layout-enter-active, .layout-leave-active {
   transition: opacity .5s
 }
-.layout-enter, .layout-leave-active {
+.layout-enter, .layout-leave-to {
   opacity: 0
 }
 ```
